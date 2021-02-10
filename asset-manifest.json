@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Dad-jokes/static/css/main.0b2cf1d8.chunk.css",
+    "main.js": "/Dad-jokes/static/js/main.73c806df.chunk.js",
+    "main.js.map": "/Dad-jokes/static/js/main.73c806df.chunk.js.map",
+    "runtime-main.js": "/Dad-jokes/static/js/runtime-main.8b885fd7.js",
+    "runtime-main.js.map": "/Dad-jokes/static/js/runtime-main.8b885fd7.js.map",
+    "static/js/2.9d93d385.chunk.js": "/Dad-jokes/static/js/2.9d93d385.chunk.js",
+    "static/js/2.9d93d385.chunk.js.map": "/Dad-jokes/static/js/2.9d93d385.chunk.js.map",
+    "index.html": "/Dad-jokes/index.html",
+    "static/css/main.0b2cf1d8.chunk.css.map": "/Dad-jokes/static/css/main.0b2cf1d8.chunk.css.map",
+    "static/js/2.9d93d385.chunk.js.LICENSE.txt": "/Dad-jokes/static/js/2.9d93d385.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b885fd7.js",
+    "static/js/2.9d93d385.chunk.js",
+    "static/css/main.0b2cf1d8.chunk.css",
+    "static/js/main.73c806df.chunk.js"
+  ]
+}
